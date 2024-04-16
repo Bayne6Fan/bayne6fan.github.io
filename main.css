@@ -992,7 +992,7 @@ body,button,input,select,textarea,::placeholder {
 }
 
 .live_b195a5 {
-    background-color: #ff0000 !important;
+    background-color: var(--main-color) !important
 }
 
 .users__65981,.total_c01838 {
@@ -2290,8 +2290,8 @@ button.button_ae40a4.disabled__1dc58>.contents__322f4>svg {
 }
 
 .numberBadge__40d6f,.textBadge_f05120 {
-    background: #ff0000 !important;
-    box-shadow: 0 0 10px -3px #ff0000,0 0 0 1px #00000000;
+    background: #ff1515 !important;
+    box-shadow: 0 0 10px -3px #ff0808, 0 0 0 1px #710000;
     color: #fff;
     font-weight: 600;
     text-shadow: 0 1px 0 rgba(0,0,0,.25);
